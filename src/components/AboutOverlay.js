@@ -37,7 +37,7 @@ const AboutOverlay = () => {
 
   let textReplace = (textOptions) => {
     const textSequence = textOptions.map((text) => {return [text, 1500]}).flat();
-    console.log(textSequence)
+
     return (<TypeAnimation
       // Same String at the start will only be typed once, initially
       sequence={textSequence}
