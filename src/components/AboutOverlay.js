@@ -55,8 +55,8 @@ const AboutOverlay = () => {
           <h1>NewCareer</h1>
         </div>
         <div style={innerStyle}>
-          <p>NewCareer redefines the approach to finding the perfect {textReplace(["job", "career", "gig"])} for you.</p>
-          <p>Using cutting edge artificial intelligence, NewCareer will continuously tune to your likes and dislikes until you land on the perfect opportunity for you.</p>
+          <p>NewCareer redefines your approach to finding the perfect {textReplace(["job", "career", "gig"])}.</p>
+          <p>NewCareer uses cutting edge artificial intelligence that will continuously tune to your likes and dislikes until the perfect opportunity is presented to you.</p>
         </div>
       </div>
     </div>);
