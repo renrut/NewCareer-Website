@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/newcareerapp/static/css/main.e6c13ad2.css",
-    "main.js": "/newcareerapp/static/js/main.7f0d1ae4.js",
-    "static/js/787.2a3044ed.chunk.js": "/newcareerapp/static/js/787.2a3044ed.chunk.js",
-    "index.html": "/newcareerapp/index.html",
-    "main.e6c13ad2.css.map": "/newcareerapp/static/css/main.e6c13ad2.css.map",
-    "main.7f0d1ae4.js.map": "/newcareerapp/static/js/main.7f0d1ae4.js.map",
-    "787.2a3044ed.chunk.js.map": "/newcareerapp/static/js/787.2a3044ed.chunk.js.map"
+    "main.css": "/NewCareer-Website/static/css/main.e6c13ad2.css",
+    "main.js": "/NewCareer-Website/static/js/main.a56a2700.js",
+    "static/js/787.2a3044ed.chunk.js": "/NewCareer-Website/static/js/787.2a3044ed.chunk.js",
+    "index.html": "/NewCareer-Website/index.html",
+    "main.e6c13ad2.css.map": "/NewCareer-Website/static/css/main.e6c13ad2.css.map",
+    "main.a56a2700.js.map": "/NewCareer-Website/static/js/main.a56a2700.js.map",
+    "787.2a3044ed.chunk.js.map": "/NewCareer-Website/static/js/787.2a3044ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7f0d1ae4.js"
+    "static/js/main.a56a2700.js"
   ]
 }
