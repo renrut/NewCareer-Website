@@ -19,7 +19,6 @@ const AboutOverlay = () => {
     //text color
     color: '#37474F',
     fontFamily: "'Playfair Display', 'serif'",
-    fontSize: '4vw',
     zIndex: 1
   }
 
@@ -29,7 +28,9 @@ const AboutOverlay = () => {
     marginRight: '10px',
     textAlign: 'center',
   }
-  const titleStyle = {};
+  const titleStyle = {
+    fontSize: "min(7vw, 5em)",
+  };
 
   const innerStyle = {
     fontSize: '1.5rem',
